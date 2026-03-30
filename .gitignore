@@ -1,0 +1,6 @@
+/.idea
+/.vs
+
+/__TEMP__
+/__BUILD_CACHE__
+/__CMAKE_BUILD__
